@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @rkds81
-- 👀 I’m interested in data analysis
+- 👋 Hi, I’m @Ritu
+- 👀 I’m interested in web development and data analysis
 
